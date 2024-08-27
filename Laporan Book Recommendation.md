@@ -87,7 +87,7 @@ Dalam proyek ini, terdapat 3 dataset yang akan digunakan yaitu data buku, rating
 -	Memfilter buku yang sudha menerima rating lebih dari sama dengan 50 dari pengguna dan menyimpannya dalam variabel result_rate
 -	Membuat tabel pivot dengan judul buku sebagai indeks, ID pengguna sebagai kolom, dan rating buku sebagai nilai
 
-## Modelling
+## Modelling and Result
 
 Collaborative filtering adalah metode dalam sistem rekomendasi yang memprediksi preferensi pengguna dengan menganalisis interaksi pengguna dengan item lain yang dalam proyek ini kita akan mengetahui bagaimana cosine similarity digunakan untuk menghitung kesamaan antara item.. 
 
